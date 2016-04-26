@@ -10,7 +10,7 @@ The RedFly-Shield is a plug-on module with WiFi/WLAN for Arduino/Genuino.
 
 ## Features
 * Compliant to 802.11b/g and single stream 802.11n
-* Network Standard: IEEE 802.11b/g/n/i 2.4GHz
+* Network standard: IEEE 802.11b/g/n/i 2.4GHz
 * Wireless security: AES, WEP, WPA, WPA2-PSK
 * Modes: Ad-hoc (only WEP encryption) and Infrastructure (no Access-Point mode)
 * Scanning for networks with signal strength indicator
