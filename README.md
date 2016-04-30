@@ -1,6 +1,8 @@
 # RedFly-Shield
 The RedFly-Shield is a plug-on module with WiFi/WLAN for Arduino/Genuino.
 
+Alternative: [BlueFly-Shield](https://github.com/watterott/BlueFly-Shield) with Atmel ATWINC1500-MR210PB WiFi module.
+
 [![RedFly-Shield](https://github.com/watterott/RedFly-Shield/raw/master/hardware/RedFly-Shield_v13.jpg)](http://www.watterott.com/en/Arduino-RedFly-Shield)
 
 
@@ -9,6 +11,7 @@ The RedFly-Shield is a plug-on module with WiFi/WLAN for Arduino/Genuino.
 
 
 ## Features
+* [Redpine Signals RS9110-N-11-22](http://www.redpinesignals.com/Modules/Internet_of_Things/Connection_Family/RS-9110-N-11-22.php) WiFi module
 * Compliant to 802.11b/g and single stream 802.11n
 * Network standard: IEEE 802.11b/g/n/i 2.4GHz
 * Wireless security: AES, WEP, WPA, WPA2-PSK
