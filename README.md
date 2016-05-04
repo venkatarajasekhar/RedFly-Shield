@@ -13,8 +13,8 @@ Alternative: [BlueFly-Shield](https://github.com/watterott/BlueFly-Shield) with 
 ## Features
 * [Redpine Signals RS9110-N-11-22](http://www.redpinesignals.com/Modules/Internet_of_Things/Connection_Family/RS-9110-N-11-22.php) WiFi module
 * Compliant to 802.11b/g and single stream 802.11n
-* Network standard: IEEE 802.11b/g/n/i 2.4GHz
-* Wireless security: AES, WEP, WPA, WPA2-PSK
+* Network standard: IEEE 802.11b/g/n 2.4GHz
+* Wireless security: AES, WEP, WPA, WPA2
 * Modes: Ad-hoc (only WEP encryption) and Infrastructure (no Access-Point mode)
 * Scanning for networks with signal strength indicator
 * Integrated WiFi and IPv4 stack (TCP, UDP, ARP, ICMP, DHCP, Auto-IP, DNS)
