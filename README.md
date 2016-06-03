@@ -24,7 +24,7 @@ Alternative: [BlueFly-Shield](https://github.com/watterott/BlueFly-Shield) with 
 
 
 ## Hardware
-* ![RedFly-Shield hardware dia](https://github.com/watterott/RedFly-Shield/raw/master/img/hw_dia.png)
+* ![RedFly-Shield hardware dia](https://github.com/watterott/RedFly-Shield/raw/master/hardware/hw_dia.png)
 * [Schematics + Layout](https://github.com/watterott/RedFly-Shield/tree/master/hardware)
 
 
